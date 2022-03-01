@@ -6,6 +6,8 @@ https://developer.mozilla.org/es/docs/Web/JavaScript/Guide/Expressions_and_Opera
 
 1. Antes de ejecutar "node ex6.js"; razona: qué vamos a ver por el terminal? Por qué ?
 
+En el primer IF se cumplen las dos razones y en el segundo IF no saldrá nada por consola porque no se cumple una de las dos razones.
+
 */
 
 if (4 > 3 && 6 > 5) {
